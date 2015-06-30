@@ -1,0 +1,16 @@
+{
+  "name": "codeMania",
+  "version": "1.0.0",
+  "description": "introduction nodejs",
+  "main": "async.js",
+  "dependencies": {
+    "async": "^1.2.1",
+    "bluebird": "^2.9.30"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chonlatee Jumratsee",
+  "license": "ISC"
+}
